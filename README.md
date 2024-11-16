@@ -1,5 +1,5 @@
 Bybit trading bot by Marcel Dio
-# bybit_trading_bot
+# Bybit Trading Bot
 Автоматизация торговли на криптовалютной бирже.
 
 Создание торгового бота для работы с Bybit API.
